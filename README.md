@@ -2,7 +2,7 @@ README
 
 ---------------------------------------------
 
-AUTHOR : Vishnu.Dev@ust.com
+AUTHOR : VishnuBDev
 Date   : 15/12/2021
 Assignment : Responsive-webpage-assignment
 
